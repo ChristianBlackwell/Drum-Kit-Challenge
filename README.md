@@ -12,4 +12,3 @@ You can try out the Drum Kit Challenge live [here](https://your-username.github.
 - Each drum has a unique sound.
 - Enjoy the interactive and fun drumming experience.
 
-## Getting Started

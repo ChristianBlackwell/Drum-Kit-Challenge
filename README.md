@@ -4,7 +4,7 @@ Welcome to the Drum Kit Challenge repository! This project is a simple web appli
 
 ## Live Demo
 
-You can try out the Drum Kit Challenge live [here](https://your-username.github.io/your-repo-name/).
+You can try out the Drum Kit Challenge live [here](https://christianblackwell.github.io/Drum-Kit-Challenge/).
 
 ## Features
 
